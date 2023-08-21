@@ -34,7 +34,7 @@ pip install gradio
 3. 打开浏览器并访问 `http://localhost:7860`，您将能够上传图像并查看 FFA 模型的预测效果。
 
 **为了方便查看测试效果，此处给出demo，允许网址供给查看效果，测试图像已放入test文件夹中**
-https://a607b6b849c47b75f8.gradio.live
+https://b30812be09f384a126.gradio.live
 
 ## 雾气场景迁移
 
