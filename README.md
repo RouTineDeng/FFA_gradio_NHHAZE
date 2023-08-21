@@ -1,6 +1,6 @@
 # 使用 Gradio进行FFA 模型测试
 
-这个项目演示了如何使用 Gradio 来测试 FFA（Fast Fog Algorithm）模型的效果。FFA 模型是一个用于图像去雾的深度学习模型，您可以使用 Gradio 轻松上传图像并查看模型的预测效果。
+这个项目演示了如何使用 Gradio 来测试 FFA-Net（Feature Fusion Attention Network）模型的效果。FFA-Net是一个用于图像去雾的深度学习模型，您可以使用 Gradio 轻松上传图像并查看模型的预测效果。
 
 ## 快速开始
 
