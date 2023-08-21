@@ -46,5 +46,9 @@ gps = 3
 blocks = 19
 dataset = 'its'  # 请根据您的数据集配置
 model_dir = abs + f'trained_models/{dataset}_train_ffa_{gps}_{blocks}.pk'
+
+# 效果展示
+![image](https://github.com/RouTineDeng/FFA_gradio_NHHAZE/assets/50286056/71f13594-fc4e-4b60-b187-4084471094d4)
+
 ```
 
